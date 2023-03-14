@@ -2,6 +2,7 @@ package com.byl.qitian.validator.pdtoolsvalidator.entity;
 
 import lombok.Data;
 import org.hibernate.validator.constraints.Length;
+
 import javax.validation.constraints.*;
 
 /**
