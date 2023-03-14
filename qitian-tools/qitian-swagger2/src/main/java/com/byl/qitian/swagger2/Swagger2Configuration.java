@@ -1,4 +1,4 @@
-package com.byl.qitianswagger2;
+package com.byl.qitian.swagger2;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.ComponentScan;

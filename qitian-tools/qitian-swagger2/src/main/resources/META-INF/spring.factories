@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-    com.byl.qitianswagger2.SwaggerAutoConfiguration
+    com.byl.qitian.swagger2.SwaggerAutoConfiguration

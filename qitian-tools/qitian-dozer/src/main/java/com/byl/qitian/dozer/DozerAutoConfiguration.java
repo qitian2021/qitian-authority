@@ -1,4 +1,4 @@
-package com.example.qitiandozer;
+package com.byl.qitian.dozer;
 
 
 import com.github.dozermapper.core.Mapper;

@@ -1,4 +1,4 @@
-package com.byl.qitianswagger2;
+package com.byl.qitian.swagger2;
 
 import com.google.common.base.Predicate;
 import com.google.common.base.Predicates;
@@ -34,7 +34,7 @@ import java.util.List;
 @ConditionalOnProperty(name = "qitian.swagger.enabled", havingValue = "true",
         matchIfMissing = true)
 @EnableSwagger2
-@EnableConfigurationProperties(com.byl.qitianswagger2.SwaggerProperties.class)
+@EnableConfigurationProperties(SwaggerProperties.class)
 public class SwaggerAutoConfiguration implements BeanFactoryAware {
     @Autowired
     SwaggerProperties swaggerProperties;

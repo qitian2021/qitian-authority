@@ -1,4 +1,4 @@
-package com.byl.qitianswagger2;
+package com.byl.qitian.swagger2;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
